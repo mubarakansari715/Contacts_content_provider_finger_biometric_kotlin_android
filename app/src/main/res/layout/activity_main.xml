@@ -11,7 +11,7 @@
         android:id="@+id/search_Items"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="5dp"
+        android:layout_margin="@dimen/_5dp"
         android:background="@drawable/custom_backgraund" />
 
     <androidx.recyclerview.widget.RecyclerView

@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Contacts_content_provider_kotlin_android</string>
+    <string name="app_name">Contacts</string>
+    <string name="app_process">Processing...</string>
+    <string name="retry" translatable="false">Retry</string>
 </resources>
